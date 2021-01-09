@@ -1,0 +1,24 @@
+[submodule "Client/knightybird-react"]
+	path = Client/knightybird-react
+	url = https://github.com/knightybird/knightybird-react.git
+[submodule "Client/knightybird_gatsby"]
+	path = Client/knightybird_gatsby
+	url = https://github.com/knightybird/knightybird_gatsby.git
+[submodule "Client/knightybird_next"]
+	path = Client/knightybird_next
+	url = https://github.com/knightybird/knightybird_next.git
+[submodule "Server/InventoryDB_wordpress"]
+	path = Server/InventoryDB_wordpress
+	url = https://github.com/knightybird/InventoryDB_wordpress.git
+[submodule "Server/InventoryDB_django"]
+	path = Server/InventoryDB_django
+	url = https://github.com/knightybird/InventoryDB_django.git
+[submodule "Server/InventoryDB"]
+	path = Server/InventoryDB
+	url = https://github.com/knightybird/InventoryDB.git
+[submodule "Server/InventoryDB_wasm"]
+	path = Server/InventoryDB_wasm
+	url = https://github.com/knightybird/InventoryDB_wasm.git
+[submodule "Server/InventoryDB_laravel"]
+	path = Server/InventoryDB_laravel
+	url = https://github.com/knightybird/InventoryDB_laravel.git
