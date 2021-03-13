@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noentoro&langs_count=8)
 
-[![Nicholas Oentoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=noentoro&count_private=true&show_icons=true)]
+![Nicholas Oentoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=noentoro&show_icons=true&count_private=true)
 
 Things I want to get better at:
 Frontends:
