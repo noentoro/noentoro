@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Nicholas Oentoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=noentoro)](https://github.com/anuraghazra/github-readme-stats)
+
+Things I want to get better at:
+Frontends:
+---React + Next/Gatsby
+---Angular
+---Vue
+Backends:
+---php backends: WordPress + laravel
+---python backend: Django + flask
+---c#.net backend: .netcore (microservices)
+---IOS Swift (server sided): kitura / vapor
+Databases:
+---MySQL
+---Postgres
+---MSSQL
