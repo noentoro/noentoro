@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Nicholas Oentoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=noentoro)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicholas Oentoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=noentoro&count_private=true&show_icons=true)]
 
 Things I want to get better at:
 Frontends:
