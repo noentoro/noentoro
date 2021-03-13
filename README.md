@@ -20,27 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noentoro&langs_count=2)
 ![Nicholas Oentoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=noentoro&show_icons=true&count_private=true)
 
-Things I want to get better at:
-
-Frontends:
-
-- React + Next/Gatsby
-- Angular
-- Vue
-
-Backends:
-
-- php backends: WordPress + laravel
-- python backend: Django + flask
-- c#.net backend: .netcore (microservices)
-- IOS Swift (server sided): kitura / vapor
-
-Databases:
-
-- MySQL
-- Postgres
-- MSSQL
 
 My Fullstack Architecture: 
 
-![](https://i.imgur.com/ZfMlaRK.jpg)
+<img src="https://i.imgur.com/ZfMlaRK.jpg" alt="fullstack" style="max-width: 500px">
