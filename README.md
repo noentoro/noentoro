@@ -1,4 +1,4 @@
-### Nicholas Oentoro - @knightybird 👋
+### Nicholas Oentoro - @noentoro /@knightybird 👋
 
 Hi! Welcome to my Github Profile. I'm a freelance developer developing Web applications using  Javascript(React,Vue.js), PHP(WordPress, Laravel), Python(Flask, Django) and C#(NET Core, Unity). I'm interested in studying about AI, deeplearning, machine learning, data analysis and integrating them into the web as a service.
 
